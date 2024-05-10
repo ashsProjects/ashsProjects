@@ -3,5 +3,4 @@ I'm Ash and you've found my personal repo! Feel free to look through and possibl
 
 #### 📫 How to reach me: ayusnad@gmail.com 
 #### 🌐 Check out my website for my resume/more contact info as well: https://ashadhikari.com 
-#### 😄 Pronouns: He/him
 #### ⚡ Fun fact: I can speak 5 languages (non-programming, I mean)
